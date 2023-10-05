@@ -1,0 +1,20 @@
+nameDiv {
+  background-color: white;
+  width: 80%;
+  border-radius: 1em;
+  padding: 1vmin;
+  margin-bottom: 0.2vmax;
+}
+
+.nameDiv > h1 {
+  margin: auto;
+}
+
+.actorCard {
+  height: 30vh;
+  width: 30vw;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin: 1vmin auto 1vmin auto;
+}

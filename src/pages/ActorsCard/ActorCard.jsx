@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import "./ActorCard.css";
 import React from "react";
 
 function randNum(min, max) {
